@@ -8,19 +8,22 @@ body {
 }
 
 .and {
+  margin-top: 10px;
   text-align: center;
-  font-size: 25px;
-  color: brown;
+  font-size: 18px;
+  font-family: "Courier New", Courier, monospace;
+  color: aqua;
 }
 
-.and:hover {
+.and:active {
   color: red;
 }
 
 .name {
-  font-size: 28px;
+  margin-top: 10px;
+  font-size: 25px;
   font-family: "Courier New", Courier, monospace;
-  font-weight: 900;
+  font-weight: 1000;
   text-align: center;
 }
 .name span {
@@ -103,5 +106,5 @@ h1 {
   text-align: center;
   color: red;
   margin-top: 40px;
-  font-size: 50px;
+  font-size: 40px;
 }
