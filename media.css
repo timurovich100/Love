@@ -7,7 +7,6 @@
   }
 
   .name {
-    
     width: 90%;
   }
 
@@ -15,8 +14,6 @@
     text-align: center;
   }
   h2 {
-    display: block;
-    margin: 0 auto;
     width: 90%;
     text-align: center;
   }
