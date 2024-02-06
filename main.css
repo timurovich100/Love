@@ -7,14 +7,9 @@ body {
   background-color: black;
 }
 
-section {
-  width: 1000px;
-  margin-top: 500px;
-}
-
 .and {
   text-align: center;
-  font-size: 50px;
+  font-size: 25px;
   color: brown;
 }
 
@@ -23,9 +18,7 @@ section {
 }
 
 .name {
-  width: 1000px;
-  margin: 30px auto;
-  font-size: 80px;
+  font-size: 30px;
   font-family: "Courier New", Courier, monospace;
   font-weight: 900;
   text-align: center;
@@ -110,5 +103,5 @@ h1 {
   text-align: center;
   color: red;
   margin-top: 40px;
-  font-size: 100px;
+  font-size: 50px;
 }
